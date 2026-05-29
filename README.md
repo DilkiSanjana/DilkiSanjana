@@ -61,7 +61,6 @@ I enjoy building scalable applications and continuously learning new technologie
 - DevOps & CI/CD
 - Docker & Kubernetes
 - AWS Cloud Services
-- Linux & Automation
 - System Reliability Engineering
 
 
