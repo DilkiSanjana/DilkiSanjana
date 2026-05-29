@@ -27,7 +27,7 @@ I enjoy building scalable applications and continuously learning new technologie
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_LINK">
+<a href="https://dilkisanjana.github.io/dilki-sanjana-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 </p>
