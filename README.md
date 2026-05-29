@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/DilkiSanjana/DilkiSanjana/blob/main/DilkiSanjana.png" width="180" style="border-radius:50%" />
+<img src="https://github.com/DilkiSanjana/DilkiSanjana/blob/main/DilkiSanjana.png" width="250" height ="250" style="border-radius:50%" />
 
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#00F7FF;">Dilki Sanjana</span>
+  Hi, I'm <span style="color:#00F7FF;">Dilki Sanjana</span>
 </h1>
 
 ### Passionate About Software Engineering & Cloud Technologies
