@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/000000?v=4" width="180" style="border-radius:50%" />
+<img src="https://chatgpt.com/s/m_6a197c540b5c8191a303555be94739c6" width="180" style="border-radius:50%" />
 
 <h1 align="center">
   👋 Hi, I'm <span style="color:#00F7FF;">Dilki Sanjana</span>
