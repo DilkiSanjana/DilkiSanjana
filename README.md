@@ -2,7 +2,9 @@
 
 <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="180" style="border-radius:50%" />
 
-# Hi there, I'm Dilki! 👋
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00F7FF;">Dilki Sanjana</span>
+</h1>
 
 ### Passionate About Software Engineering & Cloud Technologies
 
@@ -30,7 +32,7 @@ I enjoy building scalable applications and continuously learning new technologie
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat)
+![](https://komarev.com/ghpvc/?username=DilkiSanjana&color=blueviolet&style=flat)
 
 </div>
 
